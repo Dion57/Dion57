@@ -16,7 +16,7 @@
 
 📌 However, I'm still open to learn more. I have passion for security. This is why I'm actively pushing towards cloud security and DevSecOps.
 
-📌 Be kind to reach me through my [mail.](https://mail.google.com/mail/u/0/#inbox)
+📌 Be kind to reach me through my [mail.](https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail&ec=GBRAFw)
 <!--
 **Dion57/Dion57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
